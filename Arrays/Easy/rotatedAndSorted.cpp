@@ -13,6 +13,8 @@
 // Explanation: [1,2,3,4,5] is the original sorted array.
 // You can rotate the array by x = 3 positions to begin on the the element of value 3: [3,4,5,1,2].
 
+// edge case [1,2,1,2,3,4] false
+
 #include <iostream>
 #include <vector>
 #include <climits> // For INT_MAX
